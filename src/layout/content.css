@@ -1,0 +1,8 @@
+/* 内容区 */
+.f-content{
+    box-sizing: border-box;
+    position: relative;
+    overflow-y: auto;
+    padding-top: 2.3rem;
+    padding-bottom: 2.5rem;
+}
